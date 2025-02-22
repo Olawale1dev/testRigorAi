@@ -1,0 +1,7 @@
+uuid: 93c4d2df-06b6-4266-b412-3494df12446a
+customSteps: |
+  click "https://www.toolsqa.com/selenium-training/"
+  check if page contains "Bad gateway Error code 502"
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

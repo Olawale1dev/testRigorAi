@@ -1,0 +1,8 @@
+uuid: 151c035e-37b9-4934-8ab7-5ae2e567656c
+customSteps: |
+  scroll down
+  scroll up
+  click "close-fixedban"
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

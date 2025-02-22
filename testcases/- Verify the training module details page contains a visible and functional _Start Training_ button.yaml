@@ -1,0 +1,11 @@
+uuid: 60673fdc-09a5-43bb-8795-56c5c28f62d8
+customSteps: |
+  scroll down
+  scroll down
+  check if page contains "Urgent! - \"The Rebirth of The American Dream\" Watch The Interview Now"
+  scroll up
+  click "https://www.toolsqa.com/selenium-training/"
+  check if page contains "Bad gateway Error code 502"
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

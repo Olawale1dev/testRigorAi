@@ -1,0 +1,11 @@
+uuid: 372256df-2d26-4e86-9bb1-74c1bd1aec4b
+customSteps: |
+  scroll down
+  scroll down
+  click "close-fixedban"
+  scroll down
+  click "O'Reilly Interview: Greatest Wealth-building Opportunity of Our Lifetime? Sponsored by The Oxford Club >"
+  click "Click for sound"
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

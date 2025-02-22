@@ -1,0 +1,8 @@
+uuid: 78a17872-5840-46d7-9ac6-46885bda5253
+customSteps: |
+  scroll down
+  click "Book Store Application"
+  click "Git Pocket Guide"
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

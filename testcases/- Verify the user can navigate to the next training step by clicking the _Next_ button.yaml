@@ -1,0 +1,10 @@
+uuid: ba8e0200-f56c-4290-a678-7d18dad79e8e
+customSteps: |
+  click "Sponsored AI Assistant: Your Secret Weapon for Delicious Recipes Click Here Coolinarco"
+  enter "chicken" into "Enter your ingredients"
+  scroll down
+  click "Chicken breasts"
+  scroll down
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

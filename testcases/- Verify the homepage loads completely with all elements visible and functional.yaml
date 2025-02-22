@@ -1,0 +1,10 @@
+uuid: 89b191e1-41b0-43e6-81a8-c3250f21eac0
+customSteps: |
+  scroll down
+  scroll up
+  scroll down
+  check if page contains "Book Store Application"
+  check if page contains "The Secret Revealed: Why All Hummingbirds Go to My Neighbor's Garden"
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

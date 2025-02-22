@@ -1,0 +1,18 @@
+uuid: b9b0e71f-3af7-49a7-9ae3-366534874096
+customSteps: |
+  scroll down
+  scroll down
+  check if page contains "Cardiologists: 1/2 Cup Before Bed Burns Belly Fat Like Crazy! Try This Recipe!"
+  scroll up
+  click "Cardiologists: 1/2 Cup Before Bed Burns Belly Fat Like Crazy! Try This Recipe! Sponsored by Health Headlines >"
+  check if page contains "Advertisement"
+  scroll down
+  scroll down
+  click "View the video to discover the method before it's potentially taken down."
+  click "Click To Unmute"
+  scroll down
+  click "✓ Yes! Watch Video Now!"
+  scroll down
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F

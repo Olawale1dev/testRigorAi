@@ -1,0 +1,11 @@
+uuid: b55559d0-9383-4087-b760-c082f0f21e98
+customSteps: |
+  scroll down
+  check if page contains "Cardiologists: 1/2 Cup Before Bed Burns Belly Fat Like Crazy! Try This Recipe!"
+  click "close-fixedban"
+  scroll down
+  click "Book Store Application"
+  check if page contains "Health Headlines"
+labels: []
+disabled: false
+applicationId: 7uaapibiqhXs4cK3F
