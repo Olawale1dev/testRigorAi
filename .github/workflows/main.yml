@@ -14,7 +14,7 @@ do
   echo "==================================="
   echo " Checking TestRigor retest"
   echo "==================================="
-  response=$(curl -i -o - -s -X GET 'https://api.testrigor.com/api/v1/apps/7uaapibiqhXs4cK3F/status' -H 'auth-token: a3a31c68-56fd-47ec-bee0-c6bdfc95e5fe' -H 'Accept: application/json')
+  response=$(curl -i -o - -s -X GET 'https://api.testrigor.com/api/v1/apps/7uaapibiqhXs4cK3F/status' -H 'auth-token: ${Auth_Token}' -H 'Accept: application/json')
   code=$(echo "$response" | grep HTTP |  awk '{print $2}')
   body=$(echo "$response" | sed -n '/{/,/}/p')
   echo "Status code: " $code
